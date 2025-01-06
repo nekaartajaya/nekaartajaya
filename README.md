@@ -2,7 +2,6 @@
 <div align="center">
    
    **Fullstack Developer ** <br> <br>
-   <a href="">[![visitor](https://visitor-badge.laobi.icu/badge?page_id=nekaartajaya)](https://github.com/nekaartajaya)</a> 
     
 </div>
 
@@ -11,6 +10,9 @@
 *  My name is **Neka Artajaya**
 *  I’m a Fullstack Developer
 *  Visit my Portofolio at: https://nekaartajaya.com
+
+### Stats ⚡
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekaartajaya&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Tech Stack 🔥
